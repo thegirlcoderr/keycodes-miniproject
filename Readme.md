@@ -1,6 +1,6 @@
 ## keycodes-Miniproject
 
-You can view my solution on [Click here to check it out!]()
+You can view my solution on [Click here to check it out!](keycode-miniproject.netlify.app)
 
 
 

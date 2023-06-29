@@ -33,8 +33,10 @@ This challenge is meant to test my Javascript skills.
 
 ### What I learned
 
-- Using event listeners
-- Using mouse and keyboard events
+- Working with keyboard events
+- Event handling
+- DOM manipulation
+- JavaScript object and loop
 
 
 

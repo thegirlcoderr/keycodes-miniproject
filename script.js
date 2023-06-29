@@ -1,6 +1,7 @@
 function showKeyCodes(e) {
   const insert = document.getElementById('insert');
-  insert.innerHTML = '';
+    insert.innerHTML = '';
+    
 
   const keyCodes = {
     'e.key': e.key === ' ' ? 'Space' : e.key,
